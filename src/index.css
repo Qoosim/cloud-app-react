@@ -5,6 +5,7 @@
 @layer base {
   li {
     @apply p-4
+    hover:cursor-pointer
   }
 
   button {
